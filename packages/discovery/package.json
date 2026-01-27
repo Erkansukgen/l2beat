@@ -30,7 +30,7 @@
     "deep-diff": "^1.0.2",
     "ethers": "^5.7.2",
     "jsonc-parser": "^3.2.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lru_map": "0.4.1",
     "mkdirp": "^3.0.0",
     "node-fetch": "^2.6.7",
