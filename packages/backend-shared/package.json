@@ -19,7 +19,7 @@
     "@l2beat/config": "workspace:*",
     "@l2beat/shared": "workspace:*",
     "@l2beat/shared-pure": "workspace:*",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@l2beat/typescript-config": "workspace:*",
